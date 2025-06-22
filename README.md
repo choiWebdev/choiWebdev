@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=200&color=#333333&text=Hello%20%U+1F917)
+![header](https://capsule-render.vercel.app/api?type=venom&height=200&color=gray&text=Hello%20%&#128075)
 
 <!--
 **choiWebdev/choiWebdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
