@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&section=header&height=240&text=Hello%World!&fontColor=666666)
+![header](https://capsule-render.vercel.app/api?type=waving&section=header&height=240&text=Hello%World!&fontSize=40&fontColor=ffffff&fontAlign=80&animation=fadeIn)
 
 <!--
 **choiWebdev/choiWebdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
