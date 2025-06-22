@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&section=header&height=240&text=Hello%20World!&fontSize=60&fontColor=ffffff&fontAlignY=40&animation=fadeIn)
 
 ## 🙋‍♀️ Emojis about me ...
-:computer: :memo: :fire: :coffee: :headphones: :musical_note:
+### :computer: :memo: :fire: :coffee: :headphones: :musical_note:
 <br /><br /><br />
 
 ## 🔭 I’m currently working on ...
