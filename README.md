@@ -2,7 +2,7 @@
 
 ## 🙋‍♀️ Emojis about me ...
 ### :computer: :memo: :fire: :coffee: :headphones: :musical_note:
-<br /><br /><br />
+<br /><br />
 
 ## 🔭 I’m currently working on ...
 <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css-663399?style=flat-square&logo=css&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/> <img src="https://img.shields.io/badge/php-777BB4?style=flat-square&logo=php&logoColor=white"/>
